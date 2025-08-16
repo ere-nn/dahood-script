@@ -1,0 +1,13 @@
+-- Copy and paste everything from the button "Copy" or selecting it all.
+ 
+ 
+ 
+--Video: https://youtu.be/G7D0cbWUV-U
+--------
+--For support, join the script's  server: https://discord.gg/stando
+--------
+--For additional support, join my server:   https://discord.gg/M7UTUtwGkJ
+ 
+getgenv()._="Join discord.gg/msgabv2t9Q | discord.gg/stando to get latest update ok bai | If you pay for this script you get scammed, this script is completely free ok"
+getgenv().UiTheme = "Gray" --[ Black | Gray | White ]
+loadstring(game:HttpGet("https://xk5ng.github.io/XK5NG"))()
